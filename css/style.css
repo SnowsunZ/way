@@ -6,6 +6,7 @@ body div{text-align:left;}
 textarea,input{word-wrap:break-word;word-break:break-all;padding:0px;}
 li{list-style-type:none;}
 img{border:0 none;}
+img{height: auto; width: auto\9; width:100%;}
 a:link, a:visited{color:#333;text-decoration:none;outline:none;}
 a:hover{color:#0E4470;text-decoration:underline;}
 h1{font-size:24px;}
